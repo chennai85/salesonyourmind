@@ -1,0 +1,16 @@
+{
+  "name": "salesonyourmind",
+  "version": "1.0.0",
+  "description": "Sales execution platform for SMBs & startups",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "^15.0.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}
