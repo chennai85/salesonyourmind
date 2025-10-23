@@ -1,0 +1,60 @@
+{
+  "title": "Let's Talk",
+  "subtitle": "Ready to transform your sales organization?",
+  "description": "Schedule a consultation to discuss how my fractional sales leadership services can help your organization achieve breakthrough results.",
+  "contactMethods": [
+    {
+      "type": "email",
+      "value": "info@learn.salesonyourmind.com",
+      "label": "Email"
+    },
+    {
+      "type": "phone",
+      "value": "+1-202-975-9075",
+      "label": "Phone"
+    },
+    {
+      "type": "linkedin",
+      "value": "https://www.linkedin.com/in/srivatsa-srinivasan/",
+      "label": "LinkedIn"
+    }
+  ],
+  "formFields": [
+    {
+      "name": "name",
+      "label": "Your Name",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "email",
+      "label": "Email Address",
+      "type": "email",
+      "required": true
+    },
+    {
+      "name": "company",
+      "label": "Company Name",
+      "type": "text",
+      "required": false
+    },
+    {
+      "name": "serviceInterest",
+      "label": "Service Interest",
+      "type": "select",
+      "options": [
+        "Pipeline Builder Kit",
+        "Founder's Sales Copilot",
+        "Growth Navigator",
+        "Other"
+      ],
+      "required": true
+    },
+    {
+      "name": "message",
+      "label": "Tell me about your challenge",
+      "type": "textarea",
+      "required": false
+    }
+  ]
+}

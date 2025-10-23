@@ -1,0 +1,33 @@
+{
+  "title": "About Me",
+  "subtitle": "25+ Years of Sales & Technology Leadership",
+  "bio": "I'm a technology-focused sales executive with a unique career journey: software development → network engineering leadership → strategic sales transformation. I've led diverse global teams across the US, Europe, and Asia, scaling IoT business from $225M to $750M and pioneering innovative sales models that drive measurable revenue growth.",
+  "quote": "Do not confuse hard work with results.",
+  "highlights": [
+    {
+      "title": "Network Engineering",
+      "description": "Led $30M network engineering operations at Fannie Mae with 40% cost reduction through innovative automation."
+    },
+    {
+      "title": "Global Sales Leadership",
+      "description": "Managed 15+ person teams across 6 countries, driving consistent growth in IoT partnerships and market expansion."
+    },
+    {
+      "title": "Revenue Scaling",
+      "description": "Scaled Cisco IoT business from $225M to $750M by pioneering sell-through models and building 75-partner ecosystem generating $50M in new bookings."
+    },
+    {
+      "title": "Strategic Partnerships",
+      "description": "Built alliances with AWS, Snowflake, Google Cloud to expand market reach and create new revenue streams."
+    },
+    {
+      "title": "AI/ML Expertise",
+      "description": "Deep technical foundation in networking, IoT, AI/ML, cloud solutions combined with sales execution acumen."
+    },
+    {
+      "title": "Fractional Leadership",
+      "description": "Help startups and SMBs transform sales organizations without the full-time cost through strategic fractional engagement."
+    }
+  ],
+  "profileImage": "/images/profile-photo.jpg"
+}

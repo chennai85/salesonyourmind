@@ -1,0 +1,17 @@
+{
+  "title": "What Clients Say",
+  "testimonials": [
+    {
+      "quote": "Sri transformed our sales organization from a staff augmentation model to a solution-driven powerhouse. His strategic vision and technical expertise helped us secure 5 high-value clients and increase annual revenue by 20%.",
+      "author": "CEO, Technology Services Company",
+      "role": "Executive Leadership",
+      "avatar": "/images/testimonial-1.jpg"
+    },
+    {
+      "quote": "Working with Sri on our partner program development was transformative. His innovative approach expanded our market reach and created sustainable revenue growth through strategic alliances.",
+      "author": "VP of Sales, IoT Platform Provider",
+      "role": "Partnership Strategy",
+      "avatar": "/images/testimonial-2.jpg"
+    }
+  ]
+}

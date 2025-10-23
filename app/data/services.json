@@ -1,0 +1,48 @@
+{
+  "title": "Our Services",
+  "description": "Tailored solutions for every stage of your sales journey",
+  "services": [
+    {
+      "id": "pipeline-builder",
+      "title": "Pipeline Builder Kit",
+      "subtitle": "From cold start to warm pipeline in 30 days",
+      "description": "AI-assisted prospecting engine (lead lists + outreach sequences). Qualification scorecard. Proposal templates. CRM automation setup.",
+      "target": "SMBs",
+      "outcomes": [
+        "Predictable pipeline without extra headcount",
+        "Professionalized sales process",
+        "More time spent selling, less admin"
+      ],
+      "pricing": "$3K–$5K setup + $1K–$2K/mo",
+      "icon": "Zap"
+    },
+    {
+      "id": "copilot",
+      "title": "Founder's Sales Copilot",
+      "subtitle": "Turn technical founders into confident sellers",
+      "description": "AI-enabled discovery toolkit. Proposal auto-drafts. AI negotiation coach. Closing assistant.",
+      "target": "Startups",
+      "outcomes": [
+        "Founders avoid rookie sales mistakes",
+        "Faster customer conversion",
+        "Better credibility with customers & investors"
+      ],
+      "pricing": "$2K–$4K/month",
+      "icon": "Rocket"
+    },
+    {
+      "id": "growth-navigator",
+      "title": "Growth Navigator",
+      "subtitle": "From first customers to repeatable growth",
+      "description": "Everything in Pipeline Builder + Sales Copilot. Post-sale AI success assistant. Quarterly playbook refresh. KPI dashboard.",
+      "target": "SMBs + Startups",
+      "outcomes": [
+        "End-to-end growth engine",
+        "Scalable process without Big 5 costs",
+        "Clear visibility into sales performance"
+      ],
+      "pricing": "$5K–$8K/month",
+      "icon": "TrendingUp"
+    }
+  ]
+}

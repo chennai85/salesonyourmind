@@ -1,0 +1,24 @@
+{
+  "badge": "Transform Your Sales Performance",
+  "title": "Master the Art of Sales Excellence",
+  "description": "Proven strategies, expert coaching, and actionable insights to elevate your sales game and close more deals with confidence.",
+  "primaryCTA": {
+    "text": "Start Your Journey",
+    "action": "contact"
+  },
+  "secondaryCTA": {
+    "text": "Learn More",
+    "action": "services"
+  },
+  "stats": [
+    {
+      "number": "25+",
+      "label": "Years of Sales Leadership"
+    },
+    {
+      "number": "$750M",
+      "label": "In Revenue Scaled"
+    }
+  ],
+  "heroImage": "/images/hero-illustration.svg"
+}
