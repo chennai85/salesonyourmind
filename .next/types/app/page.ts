@@ -1,4 +1,4 @@
-// File: /Users/g1usns/Library/CloudStorage/OneDrive-Personal/SrivatsaS/Projects/salesonyourmind/app/page.js
+// File: /Users/g1usns/Library/CloudStorage/OneDrive-Personal/SrivatsaS/Projects/salesonyourmind/app/page.tsx
 import * as entry from '../../../app/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
